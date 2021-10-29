@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "graph_1_test",
+            "database": "${workspaceFolder:KGExtractionToolbox}/graph_test.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
